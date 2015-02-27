@@ -1,2 +1,2 @@
-# odoo contributions
-Custom Apps and Modules
+# Odoo Custom Apps and Modules
+## Payroll localization module for Singapore
