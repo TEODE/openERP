@@ -28,9 +28,9 @@ msgid "if recipient children is/are declared disabled by law"
 msgstr "Als ontvanger zijn kind(eren) gehandicapt verklaard is/zijn"
 
 #. module: l10n_sg_hr_payroll
-#: field:hr.contract,misc_onss_deduction:0
-msgid "Miscellaneous exempt ONSS "
-msgstr "Diverse vrijstellingen ONSS "
+#: field:hr.contract,misc_cpf_deduction:0
+msgid "Miscellaneous exempt CPF "
+msgstr "Diverse vrijstellingen CPF "
 
 #. module: l10n_sg_hr_payroll
 #: model:ir.model,name:l10n_sg_hr_payroll.model_hr_employee

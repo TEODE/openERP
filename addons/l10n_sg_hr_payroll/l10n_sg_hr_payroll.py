@@ -27,7 +27,7 @@ class hr_contract_be(osv.osv):
         'travel_reimbursement_amount': fields.float('Reimbursement of travel expenses', digits_compute=dp.get_precision('Payroll')),
         'car_company_amount': fields.float('Company car employer', digits_compute=dp.get_precision('Payroll')),
         'car_employee_deduction': fields.float('Company Car Deduction for Worker', digits_compute=dp.get_precision('Payroll')),
-        'misc_onss_deduction': fields.float('Miscellaneous exempt ONSS ', digits_compute=dp.get_precision('Payroll')),
+        'misc_cpf_deduction': fields.float('Miscellaneous exempt CPF ', digits_compute=dp.get_precision('Payroll')),
         'meal_voucher_amount': fields.float('Check Value Meal ', digits_compute=dp.get_precision('Payroll')),
         'meal_voucher_employee_deduction': fields.float('Check Value Meal - by worker ', digits_compute=dp.get_precision('Payroll')),
         'insurance_employee_deduction': fields.float('Insurance Group - by worker ', digits_compute=dp.get_precision('Payroll')),

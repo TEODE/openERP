@@ -30,9 +30,9 @@ msgstr ""
 "Wenn Kind(er) des Empfängers gesetzlich als behindert anerkannt ist (sind)"
 
 #. module: l10n_sg_hr_payroll
-#: field:hr.contract,misc_onss_deduction:0
-msgid "Miscellaneous exempt ONSS "
-msgstr "Diverse Ausnahmen (ONSS) "
+#: field:hr.contract,misc_cpf_deduction:0
+msgid "Miscellaneous exempt CPF "
+msgstr "Diverse Ausnahmen (CPF) "
 
 #. module: l10n_sg_hr_payroll
 #: model:ir.model,name:l10n_sg_hr_payroll.model_hr_employee
