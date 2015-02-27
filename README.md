@@ -1,2 +1,2 @@
-# odoo
-Odoo/OpenERP Apps and Modules
+# odoo contributions
+Custom Apps and Modules
