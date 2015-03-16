@@ -33,7 +33,7 @@ Singapore Payroll Rules.
     * Employee Payslip
     * Monthly Payroll Register
     * Integrated with Holiday Management
-    * Salary Maj, ONSS, Withholding Tax, Child Allowance, ...
+    * Salary Maj, CPF, Withholding Tax, Child Allowance, ...
     """,
 
     'auto_install': False,

@@ -12,7 +12,7 @@
                     <field name="travel_reimbursement_amount"/>
                     <field name="car_company_amount"/>
                     <field name="car_employee_deduction"/>
-                    <field name="misc_onss_deduction"/>
+                    <field name="misc_cpf_deduction"/>
                     <field name="meal_voucher_amount"/>
                     <field name="meal_voucher_employee_deduction"/>
                     <field name="misc_advantage_amount"/>

@@ -28,8 +28,8 @@ msgid "if recipient children is/are declared disabled by law"
 msgstr ""
 
 #. module: l10n_sg_hr_payroll
-#: field:hr.contract,misc_onss_deduction:0
-msgid "Miscellaneous exempt ONSS "
+#: field:hr.contract,misc_cpf_deduction:0
+msgid "Miscellaneous exempt CPF "
 msgstr ""
 
 #. module: l10n_sg_hr_payroll
